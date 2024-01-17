@@ -1,4 +1,4 @@
-# atftp (Advanced TFTP) Homebrew tap
+# atftp (Advanced TFTP client and server) Homebrew tap
 
 [atftp SourceForge homepage](https://sourceforge.net/projects/atftp/)</br>
 [atftp GitHub mirror](https://github.com/madmartin/atftp)
